@@ -1,5 +1,5 @@
 package uml326;
 
-abstract public class Behaelter {
+public abstract class Behaelter {
     abstract double getVolumen();
 }
