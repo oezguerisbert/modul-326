@@ -2,7 +2,7 @@ package uml326;
 
 public class Tester {
     public static void main(String[] args) {
-        Kiste k = new Kiste(10,10,10);
+        Kiste k = new Kiste(2,3,4);
         // System.out.println(k.getVolumen());
 
         Fass f = new Fass(1,2);
