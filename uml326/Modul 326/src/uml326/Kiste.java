@@ -4,6 +4,7 @@ public class Kiste extends Behaelter {
     double hoehe;
     double breite;
     double laenge;
+    //Konstruktor
     public Kiste(double h, double b, double l){
         this.breite = b;
         this.hoehe = h;

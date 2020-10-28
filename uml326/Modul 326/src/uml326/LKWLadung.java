@@ -7,6 +7,7 @@ public class LKWLadung {
     double volumen;
     ArrayList<Behaelter> liste;
 
+    //Konstruktor
     public LKWLadung() {
         this.liste = new ArrayList<Behaelter>();
 
