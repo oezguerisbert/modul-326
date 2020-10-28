@@ -9,3 +9,11 @@
 - [Kiste](./uml326/Modul%20326/src/uml326/Kiste.java)
 - [Tester](./uml326/Modul%20326/src/uml326/Tester.java)
 - [LKWLadung](./uml326/Modul%20326/src/uml326/LKWLadung.java)
+
+## Package `wp`
+
+### Classes:
+- [Wertpapier](./uml326/Modul%20326/src/wp/Behaelter.java)
+- [Aktie](./uml326/Modul%20326/src/wp/Aktie.java)
+- [Obligation](./uml326/Modul%20326/src/wp/Obligation.java)
+- [WertpapierPacket](./uml326/Modul%20326/src/wp/WertpapierPacket.java)
