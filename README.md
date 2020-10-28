@@ -8,3 +8,4 @@
 - [HelloWorld](./uml326/Modul%20326/src/uml326/HelloWorld.java)
 - [Kiste](./uml326/Modul%20326/src/uml326/Kiste.java)
 - [Tester](./uml326/Modul%20326/src/uml326/Tester.java)
+- [LKWLadung](./uml326/Modul%20326/src/uml326/LKWLadung.java)
