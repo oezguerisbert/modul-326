@@ -17,3 +17,4 @@
 - [Aktie](./uml326/Modul%20326/src/wp/Aktie.java)
 - [Obligation](./uml326/Modul%20326/src/wp/Obligation.java)
 - [WertpapierPacket](./uml326/Modul%20326/src/wp/WertpapierPacket.java)
+- [WertschriftenDepot](./uml326/Modul%20326/src/wp/WertschriftenDepot.java)
