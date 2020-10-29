@@ -10,11 +10,16 @@ public class WPTreiber {
         System.out.println("Wien32 wert: " + wien32.getWert());
 
 
-        WertpapierPacket wpp = new WertpapierPacket(ubsn, 1000, "8.3.2018", 13.27);
-        System.out.println("WertpapierPacket UBSN wert: " + wpp.getWert());
+        WertpapierPacket wppUSBN = new WertpapierPacket(ubsn, 1000, "8.3.2018", 13.27);
+        System.out.println("WertpapierPacket UBSN wert: " + wppUSBN.getWert());
+
+        
+        WertpapierPacket wppWien = new WertpapierPacket(ubsn, 10, "9.7.2018", 101.5);
+        System.out.println("WertpapierPacket UBSN wert: " + wppWien.getWert());
 
         WertschriftenDepot wsd = new WertschriftenDepot();
-        wsd.dazu(wpp);
+        wsd.dazu(wppUSBN);
+        wsd.dazu(wppWien);
         System.out.println("WertschriftenDepot wert: " + wsd.getWert());
     }
 }
