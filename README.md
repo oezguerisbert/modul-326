@@ -31,13 +31,13 @@
 ### Package `model`
 
 #### Classes:
-- [PW](./autoverleih/Autoverleih/model/PW.java)
-- [Lieferwagen](./autoverleih/Autoverleih/model/Lieferwagen.java)
-- [Wagen](./autoverleih/Autoverleih/model/Wagen.java)
-- [Ausleihe](./autoverleih/Autoverleih/model/Ausleihe.java)
-- [AusleiheListe](./autoverleih/Autoverleih/model/AusleiheListe.java)
+- [PW](./autoverleih/Autoverleih/src/model/PW.java)
+- [Lieferwagen](./autoverleih/Autoverleih/src/model/Lieferwagen.java)
+- [Wagen](./autoverleih/Autoverleih/src/model/Wagen.java)
+- [Ausleihe](./autoverleih/Autoverleih/src/model/Ausleihe.java)
+- [AusleiheListe](./autoverleih/Autoverleih/src/model/AusleiheListe.java)
 
 ### Package `view_controller`
 
 #### Classes:
-- [Autoverleih](./autoverleih/Autoverleih/view_controller/Autoverleih.java)
+- [Autoverleih](./autoverleih/Autoverleih/src/view_controller/Autoverleih.java)
