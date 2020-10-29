@@ -31,4 +31,8 @@
 ### Package `model`
 
 #### Classes:
-- [Main](./autoverleih/Autoverleih/model/Main.java)
+- [PW](./autoverleih/Autoverleih/model/PW.java)
+- [Lieferwagen](./autoverleih/Autoverleih/model/Lieferwagen.java)
+- [Wagen](./autoverleih/Autoverleih/model/Wagen.java)
+- [Ausleihe](./autoverleih/Autoverleih/model/Ausleihe.java)
+- [AusleiheListe](./autoverleih/Autoverleih/model/AusleiheListe.java)
