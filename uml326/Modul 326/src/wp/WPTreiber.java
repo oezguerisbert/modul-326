@@ -21,5 +21,7 @@ public class WPTreiber {
         wsd.dazu(wppUBSN);
         wsd.dazu(wppWien);
         System.out.println("WertschriftenDepot wert: " + wsd.getWert());
+        System.out.println("WertschriftenDepot erfolg: " + wsd.getErfolg());
+
     }
 }
