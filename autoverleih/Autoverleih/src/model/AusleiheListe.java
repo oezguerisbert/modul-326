@@ -10,7 +10,6 @@ public class AusleiheListe {
 
     public void dazu(Ausleihe a){
         this.liste.add(a);
-
     }
 
     public double getUmsatz(){
