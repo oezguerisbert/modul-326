@@ -8,6 +8,11 @@ public class AusleiheListe {
         this.liste = new ArrayList<Ausleihe>();
     }
 
+    public void dazu(Ausleihe a){
+        this.liste.add(a);
+
+    }
+
     public double getUmsatz(){
         double summe = 0;
         for (Ausleihe wagen : liste) {
