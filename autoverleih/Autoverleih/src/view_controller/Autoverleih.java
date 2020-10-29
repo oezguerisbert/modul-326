@@ -1,4 +1,6 @@
-public class Tester {
+package  view_controller;
+
+public class Autoverleih {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
     }
