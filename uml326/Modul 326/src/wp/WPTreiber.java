@@ -14,7 +14,7 @@ public class WPTreiber {
         System.out.println("WertpapierPacket UBSN wert: " + wppUBSN.getWert());
 
         
-        WertpapierPacket wppWien = new WertpapierPacket(ubsn, 10, "9.7.2018", 101.5);
+        WertpapierPacket wppWien = new WertpapierPacket(wien32, 10, "9.7.2018", 101.5);
         System.out.println("WertpapierPacket Wien wert: " + wppWien.getWert());
 
         WertschriftenDepot wsd = new WertschriftenDepot();
