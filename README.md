@@ -18,3 +18,8 @@
 - [Obligation](./uml326/Modul%20326/src/wp/Obligation.java)
 - [WertpapierPacket](./uml326/Modul%20326/src/wp/WertpapierPacket.java)
 - [WertschriftenDepot](./uml326/Modul%20326/src/wp/WertschriftenDepot.java)
+
+## Package `kapitel6`
+
+### Classes:
+- [Umhuellen](./uml326/Modul%20326/src/kapitel6/Umhuellen.java)
