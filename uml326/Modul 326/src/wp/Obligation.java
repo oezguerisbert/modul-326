@@ -17,5 +17,10 @@ public class Obligation extends Wertpapier{
     public double getWert() {
         return nominalwert * (kurs/100.0);
     }
+
+    @Override
+    double getWert(double kursBeiKauf) {
+        return nominalwert * (kursBeiKauf / 100.0d);
+    }
     
 }

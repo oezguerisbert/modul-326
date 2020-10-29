@@ -12,5 +12,11 @@ public class Aktie extends Wertpapier {
         
         return this.kurs;
     }
+
+    @Override
+    double getWert(double kursBeiKauf) {
+        
+        return kursBeiKauf;
+    }
     
 }

@@ -17,5 +17,7 @@ public class WertpapierPacket {
     public double getWert(){
         return this.wpo.getWert() * this.anzahl;
     }
-    
+    public double getErfolg(){
+        return this.getWert() - this.wpo.getWert(this.kursBeiKauf) * anzahl;
+    }
 }

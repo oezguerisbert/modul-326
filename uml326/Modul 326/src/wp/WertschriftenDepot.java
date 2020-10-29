@@ -27,4 +27,13 @@ public class WertschriftenDepot {
         });
         return this.summe;
     }
+
+    public double getErfolg(){
+        this.summe = 0;
+        this.liste.forEach(wpp -> {
+            this.summe += wpp.getErfolg();
+        });
+        return this.summe;
+    }
+
 }

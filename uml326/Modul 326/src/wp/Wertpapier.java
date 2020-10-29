@@ -14,4 +14,5 @@ public abstract class Wertpapier {
     }
 
     abstract double getWert();
+    abstract double getWert(double kursBeiKauf);
 }
