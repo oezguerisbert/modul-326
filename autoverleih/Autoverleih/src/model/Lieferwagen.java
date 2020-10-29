@@ -11,7 +11,7 @@ public class Lieferwagen extends Wagen {
     @Override
     double getTagessatz() {
         
-        return 0.7 * this.volumen;
+        return 0.07 * this.volumen;
     }
     
 }
