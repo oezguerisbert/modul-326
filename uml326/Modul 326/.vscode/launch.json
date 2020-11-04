@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Umhuellen<Modul 326_c2e79d44>",
+            "request": "launch",
+            "mainClass": "kapitel6.Umhuellen",
+            "projectName": "Modul 326_c2e79d44"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HelloWorld<Modul 326_c2e79d44>",
+            "request": "launch",
+            "mainClass": "uml326.HelloWorld",
+            "projectName": "Modul 326_c2e79d44"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Tester<Modul 326_c2e79d44>",
+            "request": "launch",
+            "mainClass": "uml326.Tester",
+            "projectName": "Modul 326_c2e79d44"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WPTreiber<Modul 326_c2e79d44>",
+            "request": "launch",
+            "mainClass": "wp.WPTreiber",
+            "projectName": "Modul 326_c2e79d44"
+        }
+    ]
+}
