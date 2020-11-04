@@ -4,8 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Taschenrechner",
+            "request": "launch",
+            "mainClass": "gui.Taschenrechner",
+            "projectName": "Modul 326_c2e79d44"
+        },
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
